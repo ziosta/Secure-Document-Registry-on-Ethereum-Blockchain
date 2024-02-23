@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='document-registry',
+    name='Ziosta-Secure-Document-Registry-on-Ethereum-Blockchain',
     version='0.1',
     packages=find_packages(),
     install_requires=[
